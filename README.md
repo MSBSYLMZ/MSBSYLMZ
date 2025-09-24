@@ -1,7 +1,7 @@
 <h2 align="center">MUSAB SÖYLEMEZ</h2>
-<h4 align="center">Full-Stack Web Developer</h4>
+<h4 align="center">Senior Full-Stack Web Developer</h4>
 <h4 align="center">Founder Of</h4> 
-<h3 align="center">WORLDWIDE TALENTED FELLOWS</h3>
+<h3 align="center">SINEFYL</h3>
 <h4 align="center">Writer on <a href="https://medium.com/@the.soylemez" target="_blank" >Medium<a></h4>
 
 <h3 align="center">Languages and Tools</h3>  
